@@ -1,0 +1,25 @@
+
+Summary : What Where Which reasons?
+
+Description: Something went wrong
+
+Project : Git branch)
+
+Severity : Minor
+
+Priority : Low
+
+Autor : Kyznetsov 
+
+Assaisment : Someone
+
+Steps to reproduce :
+	1)step 1
+
+	2)step 2
+
+Expected result : successful
+
+Actual result: Not submit
+
+
